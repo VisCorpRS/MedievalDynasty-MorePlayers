@@ -95,4 +95,5 @@ MIT. See [LICENSE](LICENSE).
 ## Support
 
 If you enjoyed this mod, be sure to support me and similar future projects! 
+
 ☕ https://ko-fi.com/viscorp
