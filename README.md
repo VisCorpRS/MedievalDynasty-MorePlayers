@@ -12,7 +12,7 @@ Raises Medieval Dynasty's co-op player limit from **4 to 8**, or any number from
 
 ## Install
 
-1. Download and unzip this folder anywhere, for example your Desktop.
+1. Download **`MedievalDynasty-MorePlayers-v1.0.zip`** from [Releases](https://github.com/VisCorpRS/MedievalDynasty-MorePlayers/releases/latest) (or click **Code → Download ZIP** on this page) and unzip it anywhere, for example your Desktop.
 2. **Close the game.**
 3. Double-click **`Install (8 players).bat`**.
 4. It should say `Done: co-op player cap is now 8`.
