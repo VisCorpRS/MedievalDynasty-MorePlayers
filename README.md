@@ -84,6 +84,10 @@ The rest of the game already copes with more than 4 players. The in-game player 
 - **Antivirus or SmartScreen warning.** The .bat files only run `MorePlayers.ps1` from the same folder. Read it, it's short. Antivirus may also briefly lock or scan the exe after it's been modified.
 - **Game won't start after patching.** Run `Uninstall.bat` or verify the game files in Steam. Then please open an issue with your game version.
 
+## How this was made
+
+This mod was built with the help of machine-intelligence tooling. Finding the player cap in the game's code, writing the patch script and analysing the test logs were done with an assisted, tool-driven workflow. Every change was then tested by people, in real co-op sessions.
+
 ## Disclaimer
 
 This is a fan-made mod, not affiliated with Render Cube or Toplitz Productions. Back up your saves (`%LOCALAPPDATA%\Medieval_Dynasty\Saved\SaveGames`) before playing with more players than the game was designed for. Use at your own risk.
